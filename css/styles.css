@@ -1,0 +1,28 @@
+body{
+    background-color: #F0E5CF;
+}
+
+hr{
+    
+    border-style: dotted none none ;
+    width: 85%;
+    border-width: 4px;
+    border-color: #929292;
+    
+}
+table{
+    border-width:2px;
+    border-inline-color: #929292;
+    border-color: #929292;
+    
+}
+h1{
+    color: #4B6587;
+    text-shadow: 3px 3px 5px #4B6587;
+}
+h3{
+    color: #4B6587;
+}
+a{
+    font-size: larger;
+}
